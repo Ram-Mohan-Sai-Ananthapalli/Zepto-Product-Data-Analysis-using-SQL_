@@ -2,6 +2,9 @@
 
 ## 📌 Project Overview
 
+
+<img width="795" height="400" alt="image" src="https://github.com/user-attachments/assets/98067679-77f7-449a-979f-6590403f8fab" />   
+
 This project focuses on analyzing Zepto product data using SQL and MySQL to generate meaningful business insights. The analysis involves working with 5,000+ product records to explore product pricing, category-wise distribution, availability, and inventory trends.
 
 The primary objective is to use SQL queries and data analysis techniques to understand product performance, identify pricing patterns, and generate insights that can support business decisions.
@@ -124,8 +127,6 @@ The analysis focuses on identifying:
 
 
 
-
-<img width="795" height="400" alt="image" src="https://github.com/user-attachments/assets/98067679-77f7-449a-979f-6590403f8fab" />   
 
 
 
